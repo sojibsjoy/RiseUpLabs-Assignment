@@ -1,16 +1,41 @@
-# mail_tm
+# Temp Mail
 
-A new Flutter project.
+This Flutter Project is a Test Assignment given by RiseUpLabs for the position of "Flutter Developer".
+This project is using the API service of Temp Mail (api.mail.tm).
+Only 4 major tasks are done in this project.
+These are:
+1. Fetching the available Domain names.
+2. Creating an account using the available domain name.
+3. Login into that created account.
+4. Fetching the messages or mails of the logged in account.
 
-## Getting Started
+Here are some screenshots of the project:
+<br>
+Splash Screen:
+<br>
+<img src="ss/splash_screen.png" height="600" alt="Splash Screen">
+<br>
+Domain List Screen:
+<br>
+<img src="ss/domain_list_screen.png" height="600" alt="Domail List">
+<br>
+Registration Screen:
+<br>
+<img src="ss/register_screen.png" height="600" alt="Registration">
+<br>
+Registration Screen (for Invalid input):
+<br>
+<img src="ss/registration_invalid_screen.png" height="600" alt="Registration">
+<br>
+Login Screen:
+<br>
+<img src="ss/login_screen.png" height="600" alt="Registration">
+<br>
+Message (Mail) List Screen:
+<br>
+<img src="ss/message_screen.png" height="600" alt="Registration">
+<br>
+Working APK link: https://drive.google.com/file/d/1-ZjThQEpO2XAjFCaPPv4FUZu9uC6LS7e/view?usp=sharing
 
-This project is a starting point for a Flutter application.
+[N: B: Due to the mid-term exam on 01-11-21, I had to compromize the UI.]
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
