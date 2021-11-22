@@ -84,7 +84,7 @@ class _DomainScreenState extends State<DomainScreen> {
             ],
           ),
           const SizedBox(
-            height: 50.0,
+            height: 40.0,
           ),
         ],
       ),

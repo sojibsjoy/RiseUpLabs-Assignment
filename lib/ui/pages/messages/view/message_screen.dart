@@ -72,6 +72,25 @@ class _MessageScreenState extends State<MessageScreen> {
               },
             ),
           ),
+          TextButton(
+            style: ButtonStyle(
+              backgroundColor: MaterialStateProperty.all(
+                Colors.amber[800],
+              ),
+            ),
+            onPressed: () {
+              setState(() {});
+            },
+            child: const Text(
+              'Refresh',
+              style: TextStyle(
+                color: Colors.white,
+              ),
+            ),
+          ),
+          const SizedBox(
+            height: 20,
+          )
         ],
       ),
     );
